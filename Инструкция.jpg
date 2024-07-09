@@ -1,0 +1,15 @@
+package main
+
+import (
+ 
+
+    "github.com/pkg/browser"
+)
+
+
+func main() {
+
+        // Открытие документа
+        browser.OpenURL("https://docs.google.com/document/d/e/2PACX-1vTF0036EgCc2qZ5CcUcRCA-LZEyNdYzUb1MTEPM86IbYHYGih7nbF4Ic4PAOrZNqacD59OLhE03LDXd/pub")
+
+}
